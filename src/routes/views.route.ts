@@ -11,7 +11,8 @@ viewsRouter.get("/", (req: Request, res: Response) => {
     style: "app.css",
   };
 
-  res.render("index", object);
+  res.render("code", object);
+  // res.render("index", object);
 });
 
 export default viewsRouter;
