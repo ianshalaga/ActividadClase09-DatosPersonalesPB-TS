@@ -40,11 +40,13 @@ Desarrollar una vista web que permita mostrar los datos personales de múltiples
 - `npm i tsx -D` (Motor de ejecución de **TypeScript** para paquetes de tipo **module**)
 - `npm i @types/node -D` (Definiciones de tipos de **TypeScript** para **Node.js**)
 - `npm i @types/express -D` (Definiciones de tipos de **TypeScript** para **Express.js**)
-- `npm i @types/express-handlebars` (Definiciones de tipos de **TypeScript** para **Handlebars**)
 
 > **TypeScript** dependencies.
 
 - `npm i tailwindcss -D`
+- `npm i @tailwindcss/forms -D`
+
+> Styles: **TailwindCSS**
 
 ## package.json
 
